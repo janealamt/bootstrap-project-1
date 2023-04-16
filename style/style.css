@@ -1,3 +1,25 @@
+.navmenu-bar{
+    z-index:999;
+   
+}
+
+.new-navbar-menu{
+    margin-top: -80px;
+    z-index: 998;
+}
+
+ @media screen and (max-width:991px){
+    .navmenu-bar{
+      position: fixed;
+     width: 100%; 
+     top:0;
+    }
+    .new-navbar-menu{
+        display: none;
+        }
+  
+} 
+
 
 
 .main-menu > li{
