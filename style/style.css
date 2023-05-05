@@ -65,3 +65,36 @@
     
 }
 
+
+.all-soicl-icon{
+    color: white;
+    font-size: 18px;
+
+}
+
+.all-soicl-icon:hover{
+    color: red;
+}
+
+.get-derection{
+    color: white;
+}
+
+.new-ancor-tag:hover  .get-derection {
+    color:red;
+}
+
+.unorder-item-list li{
+    color: white;
+    list-style-type: none;
+}
+
+.unorder-item-list li a{
+    text-decoration: none;
+    color: white;
+}
+.unorder-item-list li:hover a{
+    color: red;
+}
+
+
